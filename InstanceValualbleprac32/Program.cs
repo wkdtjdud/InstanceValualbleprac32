@@ -10,6 +10,10 @@ namespace InstanceVariableprac32
     {
         static void Main(string[] args)
         {
+            Product product = new Product();
+            product.name = "임영웅";
+            product.price = 100;
+
         }
     }
 }
