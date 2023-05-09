@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InstanceValualbleprac32
+namespace InstanceVariableprac32
 {
     internal class Program
     {
